@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Investigating CoTTA: Validating Real-Time Neural Network Adaptations
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Machine learning models encounter the problem of distribution shifts, where the data used to train the model differs from the data used when the model is deployed at test time. When training new systems without access to the test data, it's important that these models still perform well under those circumstances. Without access to these labels at test time, an approach is to use CoTTA (Continual Test-Time Adaptation). CoTTA has had major success in adapting to distribution shifts. With that success, our group strives to take an under-the-hood approach to better our understanding --- assessing model architecture and the affect it can have on CoTTA performance.
